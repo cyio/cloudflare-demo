@@ -1,0 +1,7 @@
+name = "cloudflare-demo"
+main = "src/index.ts"
+compatibility_date = "2023-05-06"
+[[ d1_databases ]]
+binding = "DB"
+database_name = "demo_db"
+database_id = "9271357e-a5ae-4727-87b6-ac943665fb81"
